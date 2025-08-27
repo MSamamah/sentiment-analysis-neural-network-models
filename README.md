@@ -87,7 +87,7 @@ We use the **Large Movie Review Dataset v1.0** by Stanford:
 
 ```bash
 # Clone the repository
-git clone https://github.com/MSamamah/sentiment-analysis-nn-models.git
+git clone https://github.com/MSamamah/sentiment-analysis-neural-network-models.git
 cd sentiment-analysis-nn-models
 
 # Create virtual environment
